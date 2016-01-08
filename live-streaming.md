@@ -201,11 +201,11 @@
 
 ----
 
-![rtmp-push](http://akslides.b0.upaiyun.com/rtmp-push.png)
+<img src="http://akslides.b0.upaiyun.com/rtmp-push.png" width="576" height="685" alt="rtmp-push" align=center />
 
 ----
 
-![rtmp-play](http://akslides.b0.upaiyun.com/rtmp-play.png)
+<img src="http://akslides.b0.upaiyun.com/rtmp-play.png" width="662" height="668" alt="rtmp-play" align=center />
 
 ----
 
@@ -239,23 +239,11 @@
 
 ![streaming-servers](http://akslides.b0.upaiyun.com/streaming-servers.png)
 
----
+----
 
 ## nginx-rtmp vs srs
 
 * <https://github.com/ossrs/srs/wiki/v1_EN_Compare>
-
-----
-
-## nginx-rtmp inner latency
-
-![nginx_rtmp_module_inner_latency](http://akslides.b0.upaiyun.com/nginx_rtmp_module_inner_latency.jpg)
-
-----
-
-## srs inner latency
-
-![srs_inner_latency](http://akslides.b0.upaiyun.com/srs_inner_latency.jpg)
 
 ---
 
