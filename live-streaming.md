@@ -173,10 +173,6 @@
 ## 全业务
 * 又拍做源站, 客户没有源站服务器, 客户可以将流推送到又拍, 以 RTMP, FLV, HLS 分发. 其中, HLS 分发依靠又拍现有系统.
 
-----
-
-![upsrs-flow](http://akslides.b0.upaiyun.com/upsrs-flow.svg)
-
 ---
 
 ## Streaming Media History
