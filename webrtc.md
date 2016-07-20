@@ -70,6 +70,7 @@
 #### C
 * <https://github.com/meetecho/janus-gateway> 更新快.
 * <https://github.com/ging/licode> 整套方案, 有nodejs API.
+* <https://github.com/Kurento/kms-core> 更新快.
 
 ----
 
