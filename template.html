@@ -2,23 +2,18 @@
 <html>
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
     <title>Template Title</title>
 
     <meta name="description" content="template description">
     <meta name="author" content="Akagi201">
 
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-
-    <meta name="viewport"
-          content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
-
-    <link rel="stylesheet" href="reveal.js-3.2.0/css/reveal.css">
-    <link rel="stylesheet" href="reveal.js-3.2.0/css/theme/black.css" id="theme">
+    <link rel="stylesheet" href="reveal.js-3.3.0/css/reveal.css">
+    <link rel="stylesheet" href="reveal.js-3.3.0/css/theme/black.css">
 
     <!-- Code syntax highlighting -->
-    <link rel="stylesheet" href="reveal.js-3.2.0/lib/css/zenburn.css">
+    <link rel="stylesheet" href="reveal.js-3.3.0/lib/css/zenburn.css">
 
     <style>
         .right .github-fork-ribbon {
@@ -30,10 +25,10 @@
         (function (i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r;
             i[r] = i[r] || function () {
-                        (i[r].q = i[r].q || []).push(arguments)
-                    }, i[r].l = 1 * new Date();
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
             a = s.createElement(o),
-                    m = s.getElementsByTagName(o)[0];
+                m = s.getElementsByTagName(o)[0];
             a.async = 1;
             a.src = g;
             m.parentNode.insertBefore(a, m)
@@ -49,12 +44,12 @@
         var link = document.createElement('link');
         link.rel = 'stylesheet';
         link.type = 'text/css';
-        link.href = window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css';
+        link.href = window.location.search.match(/print-pdf/gi) ? 'reveal.js-3.3.0/css/print/pdf.css' : 'reveal.js-3.3.0/css/print/paper.css';
         document.getElementsByTagName('head')[0].appendChild(link);
     </script>
 
     <!--[if lt IE 9]>
-    <script src="reveal.js-3.2.0/lib/js/html5shiv.js"></script>
+    <script src="reveal.js-3.3.0/lib/js/html5shiv.js"></script>
     <![endif]-->
 
     <!-- START COPYING HERE -->
@@ -83,11 +78,10 @@
     </div>
 </div>
 
-<script src="reveal.js-3.2.0/lib/js/head.min.js"></script>
-<script src="reveal.js-3.2.0/js/reveal.js"></script>
+<script src="reveal.js-3.3.0/lib/js/head.min.js"></script>
+<script src="reveal.js-3.3.0/js/reveal.js"></script>
 
 <script>
-
     // Full list of configuration options available at:
     // https://github.com/hakimel/reveal.js#configuration
     Reveal.initialize({
@@ -101,34 +95,49 @@
         // Optional reveal.js plugins
         dependencies: [
             {
-                src: 'reveal.js-3.2.0/lib/js/classList.js', condition: function () {
-                return !document.body.classList;
-            }
+                src: 'reveal.js-3.3.0/lib/js/classList.js',
+                condition: function () {
+                    return !document.body.classList;
+                }
             },
             {
                 // Zoom in and out with Alt+click
-                src: 'reveal.js-3.2.0/plugin/zoom-js/zoom.js', async: true
+                src: 'reveal.js-3.3.0/plugin/zoom-js/zoom.js',
+                async: true
             },
             {
-                src: 'reveal.js-3.2.0/plugin/markdown/marked.js', condition: function () {
-                return !!document.querySelector('[data-markdown]');
-            }
+                src: 'reveal.js-3.3.0/plugin/markdown/marked.js',
+                condition: function () {
+                    return !!document.querySelector('[data-markdown]');
+                }
             },
             {
-                src: 'reveal.js-3.2.0/plugin/markdown/markdown.js', condition: function () {
-                return !!document.querySelector('[data-markdown]');
-            }
+                src: 'reveal.js-3.3.0/plugin/markdown/markdown.js',
+                condition: function () {
+                    return !!document.querySelector('[data-markdown]');
+                }
             },
             {
-                src: 'reveal.js-3.2.0/plugin/highlight/highlight.js', async: true, callback: function () {
-                hljs.initHighlightingOnLoad();
-            }
+                src: 'reveal.js-3.3.0/plugin/notes/notes.js',
+                async: true
             },
-            {src: 'reveal.js-3.2.0/plugin/zoom-js/zoom.js', async: true},
-            {src: 'reveal.js-3.2.0/plugin/notes/notes.js', async: true}
+            {
+                src: 'reveal.js-3.3.0/plugin/highlight/highlight.js',
+                async: true,
+                callback: function () {
+                    hljs.initHighlightingOnLoad();
+                }
+            },
+            {
+                src: 'reveal.js-3.3.0/plugin/zoom-js/zoom.js',
+                async: true
+            },
+            {
+                src: 'reveal.js-3.3.0/plugin/notes/notes.js',
+                async: true
+            }
         ]
     });
-
 </script>
 </body>
 </html>
