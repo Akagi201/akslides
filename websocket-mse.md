@@ -82,7 +82,7 @@
 
 ## Demo1: 点播
 
-后端读取一个 webm 文件, 通过 WebSocket 发送给 MSE, 进行播放
+后端读取一个 fmp4 文件, 通过 WebSocket 发送给 MSE, 进行播放
 
 ---
 
