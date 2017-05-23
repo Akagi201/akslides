@@ -1,5 +1,5 @@
 
-![live-streaming-photo](http://akslides.b0.upaiyun.com/live-streaming-photo.jpg)
+![live-streaming-photo](https://akslides.b0.upaiyun.com/live-streaming-photo.jpg)
 
 ## WebRTC Overview
 

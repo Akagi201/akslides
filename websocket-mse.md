@@ -1,5 +1,5 @@
 
-![live-streaming-photo](http://akslides.b0.upaiyun.com/live-streaming-photo.jpg)
+![live-streaming-photo](https://akslides.b0.upaiyun.com/live-streaming-photo.jpg)
 
 ## WebSocket & MSE for Live
 
@@ -38,7 +38,7 @@
 
 ----
 
-![websocket_protocol](http://akshare.b0.upaiyun.com/assets/websocket_protocol.png)
+![websocket_protocol](https://akshare.b0.upaiyun.com/assets/websocket_protocol.png)
 
 ----
 
@@ -166,7 +166,7 @@ MSE 是解决 HTML5 的流问题.
 * 通过 [caniuse](http://caniuse.com/#feat=mediasource) 来检查是否浏览器支持情况.
 * 通过 [`MediaSource.isTypeSupported()`](https://developer.mozilla.org/en-US/docs/Web/API/MediaSource/isTypeSupported) 可以进一步地检查 codec MIME 类型是否支持.
 
-![mse-support](http://akshare.b0.upaiyun.com/assets/mse-support.png)
+![mse-support](https://akshare.b0.upaiyun.com/assets/mse-support.png)
 
 ----
 
@@ -197,13 +197,13 @@ MSE 是解决 HTML5 的流问题.
 
 下面一个 fragment mp4 文件通过 [mp4parser](http://mp4parser.com/) 分析后的截图
 
-![fmp4](http://akshare.b0.upaiyun.com/assets/fmp4.png)
+![fmp4](https://akshare.b0.upaiyun.com/assets/fmp4.png)
 
 ----
 
 下面一个 non-fragment mp4 文件通过 [mp4parser](http://mp4parser.com/) 分析后的截图
 
-![nfmp4](http://akshare.b0.upaiyun.com/assets/nfmp4.png)
+![nfmp4](https://akshare.b0.upaiyun.com/assets/nfmp4.png)
 
 ----
 
