@@ -8,7 +8,7 @@ My slides, Markdown contents and rendering with reveal.js
 * [Live Streaming Delay](http://akagi201.org/akslides/livestreaming-delay.html)
 * [WebRTC Overview](http://akagi201.org/akslides/webrtc.html)
 * [WebSocket & MSE for Live](http://akagi201.org/akslides/websocket-mse.html)
-* [WebRTC Introduction](http://akagi201.org/akslides/webrtc-intro.html)
+* [WebRTC Introduction](http://akagi201.org/akslides/webrtc-intro.html) [video](https://segmentfault.com/l/1500000009204980/play)
 
 ## Local serve
 * [reveal-md](https://github.com/webpro/reveal-md)
