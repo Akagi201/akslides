@@ -10,6 +10,12 @@ My slides, Markdown contents and rendering with reveal.js
 * [WebSocket & MSE for Live](http://akagi201.org/akslides/websocket-mse.html)
 * [WebRTC Introduction](http://akagi201.org/akslides/webrtc-intro.html) [video](https://segmentfault.com/l/1500000009204980/play)
 
+## Steep me a cup of tea
+
+![wechat_akagi201](http://akagi201.qiniudn.com/wechat_akagi201.jpeg)
+
+![alipay_akagi201](http://akagi201.qiniudn.com/alipay_akagi201.jpeg)
+
 ## Local serve
 * [reveal-md](https://github.com/webpro/reveal-md)
 * `reveal-md template.md`
