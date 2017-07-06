@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <title>WebRTC Basic</title>
+
+    <meta name="description" content="WebRTC Basic">
+    <meta name="author" content="Akagi201">
+
+    <link rel="stylesheet" href="reveal.js-3.5.0/css/reveal.css">
+    <link rel="stylesheet" href="reveal.js-3.5.0/css/theme/black.css">
+
+    <!-- Code syntax highlighting -->
+    <link rel="stylesheet" href="reveal.js-3.5.0/lib/css/zenburn.css">
+
+    <style>
+        .right .github-fork-ribbon {
+            background-color: #c00;
+        }
+    </style>
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-46663685-9', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+
+    <!-- Printing and PDF exports -->
+    <script>
+        var link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = window.location.search.match(/print-pdf/gi) ? 'reveal.js-3.5.0/css/print/pdf.css' : 'reveal.js-3.5.0/css/print/paper.css';
+        document.getElementsByTagName('head')[0].appendChild(link);
+    </script>
+
+    <!--[if lt IE 9]>
+    <script src="reveal.js-3.5.0/lib/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- START COPYING HERE -->
+    <link rel="stylesheet" href="bower_components/github-fork-ribbon-css/gh-fork-ribbon.css">
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" href="bower_components/github-fork-ribbon-css/gh-fork-ribbon.ie.css">
+    <![endif]-->
+    <!-- END COPYING HERE -->
+</head>
+<body>
+<!-- TOP RIGHT RIBBON -->
+<div class="github-fork-ribbon-wrapper right">
+    <div class="github-fork-ribbon">
+        <a href="https://github.com/Akagi201/akslides">Star me on GitHub</a>
+    </div>
+</div>
+<div class="reveal">
+    <!-- Any section element inside of this container is displayed as a slide -->
+    <div class="slides">
+        <section data-markdown="webrtc-basic.md"
+                 data-separator="^\n---\n"
+                 data-separator-vertical="^\n----\n"
+                 data-separator-notes="^Note:"
+                 data-charset="utf-8">
+        </section>
+    </div>
+</div>
+
+<script src="reveal.js-3.5.0/lib/js/head.min.js"></script>
+<script src="reveal.js-3.5.0/js/reveal.js"></script>
+
+<script>
+    // Full list of configuration options available at:
+    // https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+        controls: true,
+        progress: true,
+        slideNumber: true,
+        keyboard: true,
+        overview: true,
+        touch: true,
+        history: true,
+        center: true,
+        hideAddressBar: true,
+
+        transition: 'concave',
+        transitionSpeed: 'slow',
+        backgroundTransition: 'concave',
+
+        width: "100%",
+        height: "100%",
+        margin: 0,
+        minScale: 1,
+        maxScale: 1,
+
+        markdown: {
+            smartypants: true
+        },
+
+        // Optional reveal.js plugins
+        dependencies: [
+            {
+                src: 'reveal.js-3.5.0/lib/js/classList.js',
+                condition: function () {
+                    return !document.body.classList;
+                }
+            },
+            {
+                // Zoom in and out with Alt+click
+                src: 'reveal.js-3.5.0/plugin/zoom-js/zoom.js',
+                async: true
+            },
+            {
+                src: 'reveal.js-3.5.0/plugin/markdown/marked.js',
+                condition: function () {
+                    return !!document.querySelector('[data-markdown]');
+                }
+            },
+            {
+                src: 'reveal.js-3.5.0/plugin/markdown/markdown.js',
+                condition: function () {
+                    return !!document.querySelector('[data-markdown]');
+                }
+            },
+            {
+                src: 'reveal.js-3.5.0/plugin/notes/notes.js',
+                async: true
+            },
+            {
+                src: 'reveal.js-3.5.0/plugin/highlight/highlight.js',
+                async: true,
+                callback: function () {
+                    hljs.initHighlightingOnLoad();
+                }
+            },
+            {
+                src: 'reveal.js-3.5.0/plugin/zoom-js/zoom.js',
+                async: true
+            },
+            {
+                src: 'reveal.js-3.5.0/plugin/notes/notes.js',
+                async: true
+            },
+            {
+                src: 'reveal.js-3.5.0/plugin/math/math.js',
+                async: true
+            }
+        ]
+    });
+</script>
+</body>
+</html>
