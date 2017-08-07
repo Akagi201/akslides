@@ -129,7 +129,7 @@ Now!
 
 ## NAT Traversal
 
-<img src="https://akslides.b0.upaiyun.com/stun_server.png" height="600" alt="stun_server" align=center />
+<img src="https://akslides.b0.upaiyun.com/stun_server.png" height="500" alt="stun_server" align=center />
 
 ----
 
@@ -141,7 +141,7 @@ Now!
 
 ## STUN Server
 
-<img src="https://akslides.b0.upaiyun.com/stun_arch.png" height="600" alt="stun_arch" align=center />
+<img src="https://akslides.b0.upaiyun.com/stun_arch.png" height="500" alt="stun_arch" align=center />
 
 ---
 
@@ -149,19 +149,19 @@ Now!
 
 ### Peer-to-Peer vs Peer-to-Server
 
-<img src="https://akslides.b0.upaiyun.com/peer_to_server.png" height="500" alt="peer_to_server" align=center />
+<img src="https://akslides.b0.upaiyun.com/peer_to_server.png" height="400" alt="peer_to_server" align=center />
 
 ----
 
 ## Media Server Advantage
 
-<img src="https://akslides.b0.upaiyun.com/media_server_adv.png" height="600" alt="media_server_adv" align=center />
+<img src="https://akslides.b0.upaiyun.com/media_server_adv.png" height="500" alt="media_server_adv" align=center />
 
 ----
 
 ## Design Trade-Off
 
-<img src="https://akslides.b0.upaiyun.com/design_tradeoff.png" height="600" alt="design_tradeoff" align=center />
+<img src="https://akslides.b0.upaiyun.com/design_tradeoff.png" height="500" alt="design_tradeoff" align=center />
 
 ----
 
