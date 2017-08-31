@@ -9,6 +9,7 @@ My slides, Markdown contents and rendering with reveal.js
 * [WebRTC Overview](http://akagi201.org/akslides/webrtc.html)
 * [WebSocket & MSE for Live](http://akagi201.org/akslides/websocket-mse.html)
 * [WebRTC Introduction](http://akagi201.org/akslides/webrtc-intro.html) [video](https://segmentfault.com/l/1500000009204980/play)
+* [又拍云实时音视频通信服务的技术优势](http://akagi201.org/akslides/upyun-rtc-advantage.html)
 
 ## Local serve
 * [reveal-md](https://github.com/webpro/reveal-md)
