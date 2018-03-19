@@ -46,11 +46,11 @@
 
 ----
 
-<img src="https://akslides.b0.upaiyun.com/webrtc_audio_video_engine.png" height="500" alt="webrtc_audio_video_engine" align=center />
+<img src="http://akagi201.qiniudn.com/akslides/webrtc_audio_video_engine.png" height="500" alt="webrtc_audio_video_engine" align=center />
 
 ----
 
-<img src="https://akslides.b0.upaiyun.com/webrtc_transports.png" height="500" alt="webrtc_transports" align=center />
+<img src="http://akagi201.qiniudn.com/akslides/webrtc_transports.png" height="500" alt="webrtc_transports" align=center />
 
 ---
 

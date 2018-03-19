@@ -1,5 +1,5 @@
 
-![live-streaming-photo](https://akslides.b0.upaiyun.com/live-streaming-photo.jpg)
+![live-streaming-photo](http://akagi201.qiniudn.com/akslides/live-streaming-photo.jpg)
 
 ## Live Streaming Overview
 
@@ -53,13 +53,13 @@
 
 ----
 
-![audio-quality](https://akslides.b0.upaiyun.com/audio-quality.png)
+![audio-quality](http://akagi201.qiniudn.com/akslides/audio-quality.png)
 
 ----
 
 ## 封装
 
-![h264-encapsulation](https://akslides.b0.upaiyun.com/h264-encapsulation.jpg)
+![h264-encapsulation](http://akagi201.qiniudn.com/akslides/h264-encapsulation.jpg)
 
 ----
 
@@ -90,7 +90,7 @@
 
 ----
 
-<img src="https://akslides.b0.upaiyun.com/rtp-rtcp.png" width="260" height="500" alt="rtp-rtcp" align=center />
+<img src="http://akagi201.qiniudn.com/akslides/rtp-rtcp.png" width="260" height="500" alt="rtp-rtcp" align=center />
 
 ----
 
@@ -177,7 +177,7 @@
 
 ## Streaming Media History
 
-![streaming-media-history](https://akslides.b0.upaiyun.com/streaming-media-history.png)
+![streaming-media-history](http://akagi201.qiniudn.com/akslides/streaming-media-history.png)
 
 ---
 
@@ -190,7 +190,7 @@
 
 ## RTMP vs HLS
 
-![rtmp-vs-hls](https://akslides.b0.upaiyun.com/rtmp-vs-hls.png)
+![rtmp-vs-hls](http://akagi201.qiniudn.com/akslides/rtmp-vs-hls.png)
 
 ----
 
@@ -201,11 +201,11 @@
 
 ----
 
-<img src="https://akslides.b0.upaiyun.com/rtmp-push.png" width="576" height="685" alt="rtmp-push" align=center />
+<img src="http://akagi201.qiniudn.com/akslides/rtmp-push.png" width="576" height="685" alt="rtmp-push" align=center />
 
 ----
 
-<img src="https://akslides.b0.upaiyun.com/rtmp-play.png" width="662" height="668" alt="rtmp-play" align=center />
+<img src="http://akagi201.qiniudn.com/akslides/rtmp-play.png" width="662" height="668" alt="rtmp-play" align=center />
 
 ----
 
@@ -219,7 +219,7 @@
 
 ----
 
-![streaming-protocol-compare](https://akslides.b0.upaiyun.com/streaming-protocol-compare.png)
+![streaming-protocol-compare](http://akagi201.qiniudn.com/akslides/streaming-protocol-compare.png)
 
 ---
 
@@ -233,11 +233,11 @@
 
 ## 直播服务器比较
 
-![streaming-server-compare](https://akslides.b0.upaiyun.com/streaming-server-compare.png)
+![streaming-server-compare](http://akagi201.qiniudn.com/akslides/streaming-server-compare.png)
 
 ----
 
-![streaming-servers](https://akslides.b0.upaiyun.com/streaming-servers.png)
+![streaming-servers](http://akagi201.qiniudn.com/akslides/streaming-servers.png)
 
 ----
 

@@ -1,5 +1,5 @@
 
-![live-streaming-photo](https://akslides.b0.upaiyun.com/live-streaming-photo.jpg)
+![live-streaming-photo](http://akagi201.qiniudn.com/akslides/live-streaming-photo.jpg)
 
 ## WebSocket & MSE for Live
 

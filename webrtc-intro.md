@@ -1,5 +1,5 @@
 
-![webrtc_cover](https://akslides.b0.upaiyun.com/webrtc_cover.png)
+![webrtc_cover](http://akagi201.qiniudn.com/akslides/webrtc_cover.png)
 
 ## WebRTC Introduction
 
@@ -53,7 +53,7 @@
 
 ----
 
-<img src="https://akslides.b0.upaiyun.com/webrtc_audio_video_engine.png" height="500" alt="webrtc_audio_video_engine" align=center />
+<img src="http://akagi201.qiniudn.com/akslides/webrtc_audio_video_engine.png" height="500" alt="webrtc_audio_video_engine" align=center />
 
 ---
 
@@ -72,7 +72,7 @@
 
 ----
 
-<img src="https://akslides.b0.upaiyun.com/webrtc_transports.png" height="500" alt="webrtc_transports" align=center />
+<img src="http://akagi201.qiniudn.com/akslides/webrtc_transports.png" height="500" alt="webrtc_transports" align=center />
 
 ---
 
@@ -100,7 +100,7 @@ a=fmtp:111 minptime=10
 
 ## Offer-Answer 模型
 
-![webrtc_offer_answer](https://akslides.b0.upaiyun.com/webrtc_offer_answer.png)
+![webrtc_offer_answer](http://akagi201.qiniudn.com/akslides/webrtc_offer_answer.png)
 
 ----
 
@@ -133,7 +133,7 @@ a=fmtp:111 minptime=10
 
 ----
 
-![srtp](https://akslides.b0.upaiyun.com/srtp.png)
+![srtp](http://akagi201.qiniudn.com/akslides/srtp.png)
 
 ----
 
@@ -161,11 +161,11 @@ a=fmtp:111 minptime=10
 
 ----
 
-![sctp](https://akslides.b0.upaiyun.com/sctp.png)
+![sctp](http://akagi201.qiniudn.com/akslides/sctp.png)
 
 ----
 
-<img src="https://akslides.b0.upaiyun.com/websocket_vs_datachannel.png" height="500" alt="websocket_vs_datachannel" align=center />
+<img src="http://akagi201.qiniudn.com/akslides/websocket_vs_datachannel.png" height="500" alt="websocket_vs_datachannel" align=center />
 
 ---
 
@@ -182,11 +182,11 @@ a=fmtp:111 minptime=10
 
 ----
 
-![webrtc_arch](https://akslides.b0.upaiyun.com/webrtc_arch.png)
+![webrtc_arch](http://akagi201.qiniudn.com/akslides/webrtc_arch.png)
 
 ----
 
-![mcu_vs_sfu](https://akslides.b0.upaiyun.com/mcu_vs_sfu.png)
+![mcu_vs_sfu](http://akagi201.qiniudn.com/akslides/mcu_vs_sfu.png)
 
 ---
 

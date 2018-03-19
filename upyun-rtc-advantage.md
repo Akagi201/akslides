@@ -95,41 +95,41 @@ Now!
 
 ----
 
-<img src="https://akslides.b0.upaiyun.com/webrtc_audio_video_engine.png" height="500" alt="webrtc_audio_video_engine" align=center />
+<img src="http://akagi201.qiniudn.com/akslides/webrtc_audio_video_engine.png" height="500" alt="webrtc_audio_video_engine" align=center />
 
 ----
 
-<img src="https://akslides.b0.upaiyun.com/webrtc_transports.png" height="500" alt="webrtc_transports" align=center />
+<img src="http://akagi201.qiniudn.com/akslides/webrtc_transports.png" height="500" alt="webrtc_transports" align=center />
 
 ---
 
 ## WebRTC Server Considerations
 
-<img src="https://akslides.b0.upaiyun.com/webrtc_server.png" height="200" alt="webrtc_server" align=center />
+<img src="http://akagi201.qiniudn.com/akslides/webrtc_server.png" height="200" alt="webrtc_server" align=center />
 
 ---
 
 ## Signaling
 
-<img src="https://akslides.b0.upaiyun.com/webrtc_signaling.png" height="500" alt="webrtc_signaling" align=center />
+<img src="http://akagi201.qiniudn.com/akslides/webrtc_signaling.png" height="500" alt="webrtc_signaling" align=center />
 
 ----
 
 ## Relay SDP between Clients.
 
-<img src="https://akslides.b0.upaiyun.com/sdp_anatomy.png" height="500" alt="sdp_anatomy" align=center />
+<img src="http://akagi201.qiniudn.com/akslides/sdp_anatomy.png" height="500" alt="sdp_anatomy" align=center />
 
 ----
 
 ## Considerations Outside of WebRTC
 
-<img src="https://akslides.b0.upaiyun.com/webrtc_out_signaling.png" height="400" alt="webrtc_out_signaling" align=center />
+<img src="http://akagi201.qiniudn.com/akslides/webrtc_out_signaling.png" height="400" alt="webrtc_out_signaling" align=center />
 
 ---
 
 ## NAT Traversal
 
-<img src="https://akslides.b0.upaiyun.com/stun_server.png" height="500" alt="stun_server" align=center />
+<img src="http://akagi201.qiniudn.com/akslides/stun_server.png" height="500" alt="stun_server" align=center />
 
 ----
 
@@ -141,7 +141,7 @@ Now!
 
 ## STUN Server
 
-<img src="https://akslides.b0.upaiyun.com/stun_arch.png" height="500" alt="stun_arch" align=center />
+<img src="http://akagi201.qiniudn.com/akslides/stun_arch.png" height="500" alt="stun_arch" align=center />
 
 ---
 
@@ -149,25 +149,25 @@ Now!
 
 ### Peer-to-Peer vs Peer-to-Server
 
-<img src="https://akslides.b0.upaiyun.com/peer_to_server.png" height="400" alt="peer_to_server" align=center />
+<img src="http://akagi201.qiniudn.com/akslides/peer_to_server.png" height="400" alt="peer_to_server" align=center />
 
 ----
 
 ## Media Server Advantage
 
-<img src="https://akslides.b0.upaiyun.com/media_server_adv.png" height="500" alt="media_server_adv" align=center />
+<img src="http://akagi201.qiniudn.com/akslides/media_server_adv.png" height="500" alt="media_server_adv" align=center />
 
 ----
 
 ## Design Trade-Off
 
-<img src="https://akslides.b0.upaiyun.com/design_tradeoff.png" height="500" alt="design_tradeoff" align=center />
+<img src="http://akagi201.qiniudn.com/akslides/design_tradeoff.png" height="500" alt="design_tradeoff" align=center />
 
 ----
 
 ## Multi-Party Conferencing
 
-<img src="https://akslides.b0.upaiyun.com/multi_party_conf.png" height="500" alt="multi_party_conf" align=center />
+<img src="http://akagi201.qiniudn.com/akslides/multi_party_conf.png" height="500" alt="multi_party_conf" align=center />
 
 ---
 
@@ -188,7 +188,7 @@ Now!
 
 ## UPRTC 架构
 
-![uprtc_arch](https://akslides.b0.upaiyun.com/uprtc_arch.png)
+![uprtc_arch](http://akagi201.qiniudn.com/akslides/uprtc_arch.png)
 
 ----
 
@@ -201,7 +201,7 @@ Now!
 
 ## UPRTC 技术组成
 
-<img src="https://akslides.b0.upaiyun.com/uprtc_business.png" height="500" alt="uprtc_business" align=center />
+<img src="http://akagi201.qiniudn.com/akslides/uprtc_business.png" height="500" alt="uprtc_business" align=center />
 
 ---
 
@@ -211,13 +211,13 @@ Now!
 
 ## Web 端
 
-<img src="https://akslides.b0.upaiyun.com/upmeeting_browser.png" height="500" alt="upmeeting_browser" align=center />
+<img src="http://akagi201.qiniudn.com/akslides/upmeeting_browser.png" height="500" alt="upmeeting_browser" align=center />
 
 ----
 
 ## 移动端
 
-<img src="https://akslides.b0.upaiyun.com/upmeeting_ios.jpeg" height="500" alt="upmeeting_ios" align=center />
+<img src="http://akagi201.qiniudn.com/akslides/upmeeting_ios.jpeg" height="500" alt="upmeeting_ios" align=center />
 
 ---
 

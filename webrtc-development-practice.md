@@ -84,11 +84,11 @@
 
 ----
 
-<img src="https://akslides.b0.upaiyun.com/webrtc_audio_video_engine.png" height="500" alt="webrtc_audio_video_engine" align=center />
+<img src="http://akagi201.qiniudn.com/akslides/webrtc_audio_video_engine.png" height="500" alt="webrtc_audio_video_engine" align=center />
 
 ----
 
-<img src="https://akslides.b0.upaiyun.com/webrtc_transports.png" height="500" alt="webrtc_transports" align=center />
+<img src="http://akagi201.qiniudn.com/akslides/webrtc_transports.png" height="500" alt="webrtc_transports" align=center />
 
 ---
 
@@ -109,7 +109,7 @@
 
 ## UPRTC 架构
 
-![uprtc_arch](https://akslides.b0.upaiyun.com/uprtc_arch.png)
+![uprtc_arch](http://akagi201.qiniudn.com/akslides/uprtc_arch.png)
 
 ----
 
@@ -122,7 +122,7 @@
 
 ## UPRTC 技术组成
 
-<img src="https://akslides.b0.upaiyun.com/uprtc_business.png" height="500" alt="uprtc_business" align=center />
+<img src="http://akagi201.qiniudn.com/akslides/uprtc_business.png" height="500" alt="uprtc_business" align=center />
 
 ---
 
@@ -132,13 +132,13 @@
 
 ## Web 端
 
-<img src="https://akslides.b0.upaiyun.com/upmeeting_browser.png" height="500" alt="upmeeting_browser" align=center />
+<img src="http://akagi201.qiniudn.com/akslides/upmeeting_browser.png" height="500" alt="upmeeting_browser" align=center />
 
 ----
 
 ## 移动端
 
-<img src="https://akslides.b0.upaiyun.com/upmeeting_ios.jpeg" height="500" alt="upmeeting_ios" align=center />
+<img src="http://akagi201.qiniudn.com/akslides/upmeeting_ios.jpeg" height="500" alt="upmeeting_ios" align=center />
 
 ---
 
